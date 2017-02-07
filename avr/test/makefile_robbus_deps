@@ -1,0 +1,2 @@
+../lib/fsm.o: $(AVRLIB)/uart.h fsm.c fsm.h global.h
+
